@@ -1,2 +1,3 @@
 # FirstRepository
-Знакомнство с GiyHub
+Знакомнство с GitHub
+Вношу изменения в файл index.html
