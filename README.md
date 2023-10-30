@@ -2,6 +2,10 @@
 <h3 align="center">Базы данных - моя страсть, и MySQL - мой инструмент выбора. Я работаю над оптимизацией, масштабированием и обслуживанием баз данных</h3>
 <img align="right" alt="Coding"  src="https://cs8.pikabu.ru/post_img/2017/03/06/6/1488792846146085519.webm">
 
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starkidze&label=Profile%20views&color=0e75b6&style=flat" alt="starkidze" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starkidze" alt="starkidze" /></a> </p>
