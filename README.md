@@ -18,7 +18,7 @@
 Сайт, для которого реализован API, расположен по URL: https://msi2020-555.web.app/.
 
 ### Позитивное тестирование
-<img scr="C:\Users\stark\OneDrive\Рабочий стол\ФОТО ДЛЯ ГИТХАБА\1.1.png"/>
+<image scr="C:\Users\stark\OneDrive\Рабочий стол\ФОТО ДЛЯ ГИТХАБА\1.1.png"/>
 ![Рисунок 1 - Категория "science"]("C:\Users\stark\OneDrive\Рабочий стол\ФОТО ДЛЯ ГИТХАБА\1.1.png")
 ![Текст с описанием картинки](/images/picture.jpg)
 
