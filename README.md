@@ -18,7 +18,8 @@
 Сайт, для которого реализован API, расположен по URL: https://msi2020-555.web.app/.
 
 ### Позитивное тестирование
-<img scr="https://github.com/Starkidze/FirstRepository/assets/114806514/b7cff46a-4366-4a62-98c1-f33222a6fded">
+<img scr="![image](https://github.com/Starkidze/FirstRepository/assets/114806514/134e2cad-e402-4015-b592-7b922e32db0d)
+"/>
 ## Использование
 Расскажите как установить и использовать ваш проект, покажите пример кода:
 
