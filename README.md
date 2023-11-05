@@ -83,7 +83,9 @@
 Рисунок 10. Проверка графического элемента «Ответ»
 
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/486d2362-de62-4bbc-8b9c-cb21a32d9684)
+
 Рисунок 11. Проверка графического элемента «Инициатор»
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/a7e989ae-b49b-42e4-b570-f82ff1e47014)
 Рисунок 12. Проверка графического элемента «Время»
 
