@@ -92,117 +92,36 @@
 #### В данном примере протестируем сетевые протоколы встроенными средствами операционной системы
 
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/2c2a1d7f-119d-4d99-9ead-72591e34287b)
+
 Рисунок 1. Команда ipconfig
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/27ba6a8b-5587-4d6c-85c5-3c6f10946e6e)
+
 Рисунок 2. Команда ipconfig /all
 Проверим отклик сайта wildberries:
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/c06dfbe5-1437-494d-845f-428daab7ccf4)
+
 Рисунок 3. Команда ping 
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/9fe24615-c48d-4dc1-8516-cfd580522926)
+
 Рисунок 4. Команда tracert
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/ec939630-cfdf-4624-a7ab-39e1cedfb14e)
+
 Рисунок 5. Команда netstat -a
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/490d5402-9388-42c3-98d9-724e19fc0eee)
+
 Рисунок 6. Команда netstat -b
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/b7c47100-e2bd-424b-8568-be8bc3216e0c)
+
 Рисунок 7. Команда netstat -e
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/e89be3c0-eea7-4d69-ab74-6c2d25484a9e)
+
 Рисунок 8. Команда netstat –s
 
 #### Вывод:
 В ходе работы было выполнено тестирование сетевых протоколов средствами OC Windows. Представлен листинг всех использованных команд.
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Проект&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Категория&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Видимость&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Создан&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Изменен&nbsp;&nbsp;&nbsp;</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0000001</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Проект Х</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">General</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">публичная</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Инициатор</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Старков </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Данила</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ответственный</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" colspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Приоритет</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Влияние</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">   <br><span style="font-weight:bold;color:black">Воспроизводимость</span><span style="font-weight:bold">   </span></td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">всегда</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Состояние</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">   <br><span style="color:black">новая</span></td>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Решение</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">открыта</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" colspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Функциональное&nbsp;&nbsp;&nbsp;тестирование</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Тема</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">В правой части верхнего блока (под хедером) дублируется&nbsp;&nbsp;&nbsp;вывод статьи ("В конце релиза" выведена дважды)</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Описание</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">На</span> <span style="color:black">главной</span> <span style="color:black">странице</span> <span style="color:black">сайта</span> <span style="color:black">при просмотре&nbsp;&nbsp;&nbsp;статей. В правой колонке </span> <span style="color:black">дублируется&nbsp;&nbsp;&nbsp;вывод статьи ("В конце релиза" выведена дважды)</span> <br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Шаги по воспроизведению</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Перейти на&nbsp;&nbsp;&nbsp;сайт</span>   <a href="https://qahacking.guru/">https://qahacking.guru/</a><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Посмотреть на&nbsp;&nbsp;&nbsp;правую колонку статей</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Зафиксировать&nbsp;&nbsp;&nbsp;результат</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Дополнительные сведения</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Фактический&nbsp;&nbsp;&nbsp;результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Интерфейс</span> <span style="color:black">главной&nbsp;&nbsp;&nbsp;страницы содержит дублирование статей </span><br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ожидаемый</span> <span style="color:black">результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Статьи без дублирования</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Скриншот</td>
-    <td class="tg-0lax" colspan="5"><img src="https://sun9-19.userapi.com/impg/HrcfpUIk2ixV-tg03_nu_oTDc1ZU8JOxA7XFzQ/unDXYKf0elI.jpg?size=516x740&quality=96&sign=de45e2906251bdfb831c10ab824304e1&type=album" width="516" height="740"></td>
-  </tr>
-</tbody>
-</table>
+
 
 
 ## Использование
