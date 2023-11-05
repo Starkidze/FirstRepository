@@ -136,7 +136,7 @@
 ### ОС: Windows 10 Домашняя
 ### Оценка: Ниже представлены результаты тестирования сайта, таблица дефектов прилагается отдельным файлом.
 
-Таблица 1– Тестирование №1
+### Таблица 1– Тестирование №1
 
 <table class="tg">
 <thead>
@@ -219,9 +219,7 @@
 </tbody>
 </table>
 
-
-
-Таблица 2 – Тестирование №2
+### Таблица 2 – Тестирование №2
 
 <table class="tg">
 <thead>
@@ -295,95 +293,604 @@
 </table>
 
 
+### Таблица 3 – Тестирование №3
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Проект&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Категория&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Видимость&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Создан&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Изменен&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">   <br><span style="color:black">0000003</span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Проект Х</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">General</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">публичная</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Инициатор</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Старков </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Данила</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ответственный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Приоритет</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Высокий</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Влияние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">   <br><span style="color:black">Высокое</span>   </td>
+    <td class="tg-0pky">   <br><span style="font-weight:bold;color:black">Воспроизводимость</span><span style="font-weight:bold">   </span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">всегда</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Состояние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">новая</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Решение</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">открыта</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Функциональное&nbsp;&nbsp;&nbsp;тестирование</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Тема</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">В&nbsp;&nbsp;&nbsp;форме бронирования: Мобильный номер (написано не больше 12, а можно максимум&nbsp;&nbsp;&nbsp;10)</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Описание</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Мобильный номер (написано не больше&nbsp;&nbsp;&nbsp;12 символов, а можно максимум 10)</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Шаги по воспроизведению</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1. Перейти на&nbsp;&nbsp;&nbsp;сайт</span>    <span style="color:black">https://qahacking.guru/index.php/about</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">2. Посмотреть на «Форма&nbsp;&nbsp;&nbsp;бронирования питомца» - телефон</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">3. Зафиксировать&nbsp;&nbsp;&nbsp;результат</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Дополнительные сведения</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Фактический&nbsp;&nbsp;&nbsp;результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">написано не больше 12 символов, а&nbsp;&nbsp;&nbsp;можно максимум 10</span><br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ожидаемый</span> <span style="color:black">результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">написано не больше 12 символов, значит&nbsp;&nbsp;&nbsp;можно максимум 12</span><br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Скриншот</td>
+    <td class="tg-0pky" colspan="5"><img src="https://sun9-29.userapi.com/impg/3XYy9viz5pWbjKCDnLx0gFLC6stLxqLQfTS1ZQ/OuZMKeMTC64.jpg?size=308x92&quality=96&sign=bae9598bc159f6ddcfee74d1f811197a&type=album" width="308" height="92"></td>
+  </tr>
+</tbody>
+</table>
+
+### Таблица 4 – Тестирование №4
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Проект&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Категория&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Видимость&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Создан&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Изменен&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">   <br><span style="color:black">0000004</span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Проект Х</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">General</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">публичная</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Инициатор</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Старков </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Данила</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ответственный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Приоритет</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Обычный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Влияние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Среднее</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">   <br><span style="font-weight:bold;color:black">Воспроизводимость</span><span style="font-weight:bold">   </span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">всегда</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Состояние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">новая</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Решение</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">открыта</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Функциональное&nbsp;&nbsp;&nbsp;тестирование</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Тема</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">В&nbsp;&nbsp;&nbsp;форме бронирования: кнопку «Подтвердить отправку» можно увидеть только при&nbsp;&nbsp;&nbsp;наведении курсора на нее</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Описание</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">кнопку «Подтвердить отправку» можно&nbsp;&nbsp;&nbsp;увидеть только при наведении курсора на нее</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Шаги по воспроизведению</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1. Перейти на&nbsp;&nbsp;&nbsp;сайт</span>    <span style="color:black">https://qahacking.guru/index.php/about</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">2. Посмотреть на&nbsp;&nbsp;&nbsp;«Форма бронирования питомца» - пролистать до конца формы</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">3. Зафиксировать&nbsp;&nbsp;&nbsp;результат</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Дополнительные сведения</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Фактический&nbsp;&nbsp;&nbsp;результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">кнопку «Подтвердить отправку» можно&nbsp;&nbsp;&nbsp;увидеть только при наведении курсора на нее</span><span style="color:black">&nbsp;&nbsp;&nbsp;</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ожидаемый</span> <span style="color:black">результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">кнопку «Подтвердить отправку» видно&nbsp;&nbsp;&nbsp;в любых условиях</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Скриншот</td>
+    <td class="tg-0pky" colspan="5"><img src="https://sun9-29.userapi.com/impg/Ao36K78-QdBkp3io_vC0-sjRbcvazsbui13CBQ/zGysj4vfr8I.jpg?size=608x180&quality=96&sign=4311da48bd0dae8873252f98a69afab1&type=album" width="608" height="180"></td>
+  </tr>
+</tbody>
+</table>
+
+### Таблица 5 – Тестирование №5
+
+<thead>
+  <tr>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Проект&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Категория&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Видимость&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Создан&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Изменен&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">   <br><span style="color:black">0000005</span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Проект Х</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">General</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">публичная</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Инициатор</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Старков </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Данила</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ответственный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Приоритет</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Обычный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Влияние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Низкое</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">   <br><span style="font-weight:bold;color:black">Воспроизводимость</span><span style="font-weight:bold">   </span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">всегда</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Состояние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">новая</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Решение</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">открыта</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Функциональное&nbsp;&nbsp;&nbsp;тестирование</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Тема</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">При&nbsp;&nbsp;&nbsp;клике на статью вверху, происходит переход на другую статью</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Описание</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">При клике на статью вверху,&nbsp;&nbsp;&nbsp;происходит переход на другую статью</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Шаги по воспроизведению</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1. Перейти на&nbsp;&nbsp;&nbsp;сайт</span>    <span style="color:black">https://qahacking.guru/index.php/news</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">2. Кликнуть на&nbsp;&nbsp;&nbsp;первую статью с картинкой</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">3. Зафиксировать&nbsp;&nbsp;&nbsp;результат</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Дополнительные сведения</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Фактический&nbsp;&nbsp;&nbsp;результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">При&nbsp;&nbsp;&nbsp;клике на статью вверху, происходит переход на другую статью</span><span style="color:black"> Ожидаемый</span> <span style="color:black">результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">При клике на статью вверху,&nbsp;&nbsp;&nbsp;происходит переход именно на эту статью</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Скриншот</td>
+    <td class="tg-0pky" colspan="5"><img src="https://sun9-25.userapi.com/impg/GOYhxUPYZOLxqYoDcPUI5LydM7cpj-Hd5-VKxA/M5ZbFe8OE_4.jpg?size=1280x521&quality=96&sign=57e9e1e2417ab326bd255ead2481fb3a&type=album" width="608" height="180"></td>
+  </tr>
+</tbody>
+</table>
+
+### Таблица 6 – Тестирование №6
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Проект&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Категория&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Видимость&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Создан&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Изменен&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">   <br><span style="color:black">0000006</span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Проект Х</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">General</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">публичная</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Инициатор</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Старков </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Данила</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ответственный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Приоритет</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Низкий</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Влияние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Низкое</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">   <br><span style="font-weight:bold;color:black">Воспроизводимость</span><span style="font-weight:bold">   </span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">всегда</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Состояние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">новая</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Решение</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">открыта</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Функциональное&nbsp;&nbsp;&nbsp;тестирование</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Тема</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Опечатка&nbsp;&nbsp;&nbsp;в слове "Популярное"</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Описание</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Опечатка в слове&nbsp;&nbsp;&nbsp;"Популярное"</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Шаги по воспроизведению</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1. Перейти на&nbsp;&nbsp;&nbsp;сайт</span>    <span style="color:black">https://qahacking.guru/index.php/news</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">2. Пролистать до&nbsp;&nbsp;&nbsp;свежих постов и в правой колонке найти ошибку</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">3. Зафиксировать&nbsp;&nbsp;&nbsp;результат</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Дополнительные сведения</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Фактический&nbsp;&nbsp;&nbsp;результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Опечатка&nbsp;&nbsp;&nbsp;в слове "Популярное"</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ожидаемый</span> <span style="color:black">результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">«Популярное»</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Скриншот</td>
+    <td class="tg-0pky" colspan="5"><img src="https://sun9-55.userapi.com/impg/MNAWbjsVApcfBgChAE2_V3dGA9_wlJbmFEASoQ/X_GFrjOxcMo.jpg?size=286x88&quality=96&sign=c0bd50c4867655020a33923d31659299&type=album" width="286" height="88"></td>
+  </tr>
+</tbody>
+</table>
+
+### Таблица 7 – Тестирование №7
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Проект&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Категория&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Видимость&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Создан&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Изменен&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">   <br><span style="color:black">0000007</span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Проект Х</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">General</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">публичная</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Инициатор</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Старков </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Данила</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ответственный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Приоритет</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Низкий</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Влияние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Низкое</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">   <br><span style="font-weight:bold;color:black">Воспроизводимость</span><span style="font-weight:bold">   </span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">всегда</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Состояние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">новая</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Решение</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">открыта</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Функциональное&nbsp;&nbsp;&nbsp;тестирование</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Тема</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Локализация:&nbsp;&nbsp;&nbsp;вместо Continue Reading должно быть "продолжить чтение"</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Описание</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br> <span style="color:black;background-color:#FDFEFF">Вместо Continue Reading должно быть&nbsp;&nbsp;&nbsp;"продолжить чтение"</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Шаги по воспроизведению</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1. Перейти на&nbsp;&nbsp;&nbsp;сайт</span>    <span style="color:black">https://qahacking.guru/index.php/news</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">2. Пролистать до&nbsp;&nbsp;&nbsp;свежих постов </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">3. Зафиксировать&nbsp;&nbsp;&nbsp;результат</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Дополнительные сведения</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Фактический&nbsp;&nbsp;&nbsp;результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">«Continue&nbsp;&nbsp;&nbsp;Reading»</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ожидаемый</span> <span style="color:black">результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">«Продолжить чтение »</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Скриншот</td>
+    <td class="tg-0pky" colspan="5"><img src="https://sun9-29.userapi.com/impg/9Ge8C_pDmWl0QQgTMD9F4Y64mtjT4Y9HB5n1yA/JWpFVyDooCQ.jpg?size=581x443&quality=96&sign=88175dda685ff49b181303ea9cb55d33&type=album" width="581" height="443"></td>
+  </tr>
+</tbody>
+</table>
+
+### Таблица 8 – Тестирование №8
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Проект&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Категория&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Видимость&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Создан&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Изменен&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">   <br><span style="color:black">0000008</span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Проект Х</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">General</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">публичная</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Инициатор</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Старков </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Данила</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ответственный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Приоритет</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Обычный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Влияние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Среднее</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">   <br><span style="font-weight:bold;color:black">Воспроизводимость</span><span style="font-weight:bold">   </span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">всегда</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Состояние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">новая</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Решение</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">открыта</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Функциональное&nbsp;&nbsp;&nbsp;тестирование</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Тема</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">   <br><span style="color:black;background-color:#FDFEFF">Футер:   Ссылки на соцсети не рабочие</span>   </td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Описание</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br> <span style="color:black;background-color:#FDFEFF">Ссылки на соцсети не рабочие</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Шаги по воспроизведению</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1. Перейти на&nbsp;&nbsp;&nbsp;сайт</span>    <span style="color:black">https://qahacking.guru/</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">2. Пролистать до&nbsp;&nbsp;&nbsp;футера </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">3. Зафиксировать&nbsp;&nbsp;&nbsp;результат</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Дополнительные сведения</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Фактический&nbsp;&nbsp;&nbsp;результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Ссылки&nbsp;&nbsp;&nbsp;на соцсети не рабочие</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ожидаемый</span> <span style="color:black">результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Либо убрать символы соцсетей, либо сделать&nbsp;&nbsp;&nbsp;ссылки активными</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Скриншот</td>
+    <td class="tg-0pky" colspan="5"><img src="https://sun9-3.userapi.com/impg/meGY74t0DHypLdp49iGyuoeRr5z0FPaiS5w2hQ/PEx13L5_Us0.jpg?size=209x99&quality=96&sign=148e0bf160985f49a2d8ede57e931e3d&type=album" width="581" height="443"></td>
+  </tr>
+</tbody>
+</table>
+
+### Таблица 9 – Тестирование №9
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Проект&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Категория&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Видимость&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Создан&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Изменен&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">   <br><span style="color:black">0000009</span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Проект Х</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">General</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">публичная</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Инициатор</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Старков </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Данила</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ответственный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Приоритет</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Средний</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Влияние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">низкое</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">   <br><span style="font-weight:bold;color:black">Воспроизводимость</span><span style="font-weight:bold">   </span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">всегда</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Состояние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">новая</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Решение</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">открыта</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Функциональное&nbsp;&nbsp;&nbsp;тестирование</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Тема</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Футер:&nbsp;&nbsp;&nbsp;При попытке подписаться на рассылку, выскакивает ошибка</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Описание</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br>  <span style="color:black;background-color:#FDFEFF">При&nbsp;&nbsp;&nbsp;попытке подписаться на рассылку, выскакивает ошибка</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Шаги по воспроизведению</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1. Перейти на&nbsp;&nbsp;&nbsp;сайт</span>    <span style="color:black">https://qahacking.guru/</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">2. Пролистать до&nbsp;&nbsp;&nbsp;футера </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">3. Зафиксировать&nbsp;&nbsp;&nbsp;результат</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Дополнительные сведения</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Фактический&nbsp;&nbsp;&nbsp;результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">При&nbsp;&nbsp;&nbsp;попытке подписаться на рассылку, выскакивает ошибка</span><span style="color:black"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ожидаемый</span> <span style="color:black">результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Рабочая подписка на рассылку </span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Скриншот</td>
+    <td class="tg-0pky" colspan="5"><img src="https://sun9-33.userapi.com/impg/EBvonCZx6lT0nRohICneNiioly1nxWm9UEH6ag/nqbmyy3MiwQ.jpg?size=463x209&quality=96&sign=ada824d1b5e69fb77e44dec03786469d&type=album" width="463" height="209"></td>
+  </tr>
+</tbody>
+</table>
+
+### Таблица 10 – Тестирование №10
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Проект&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Категория&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Видимость&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Создан&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Изменен&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">   <br><span style="color:black">0000010</span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Проект Х</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">General</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">публичная</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Инициатор</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Старков </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Данила</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ответственный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Приоритет</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Высокий</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Влияние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Высокое</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">   <br><span style="font-weight:bold;color:black">Воспроизводимость</span><span style="font-weight:bold">   </span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">всегда</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Состояние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">новая</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Решение</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">открыта</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Функциональное&nbsp;&nbsp;&nbsp;тестирование</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Тема</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Не&nbsp;&nbsp;&nbsp;работает выпадающее меню для выбора города</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Описание</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br>   <span style="color:black;background-color:#FDFEFF">Не&nbsp;&nbsp;&nbsp;работает выпадающее меню для выбора города</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Шаги по воспроизведению</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1. Перейти на&nbsp;&nbsp;&nbsp;сайт</span>     <span style="color:black">https://qahacking.guru/index.php/about</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">2. Пролистать до формы&nbsp;&nbsp;&nbsp;бронирования </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">3. Зафиксировать&nbsp;&nbsp;&nbsp;результат</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Дополнительные сведения</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Фактический&nbsp;&nbsp;&nbsp;результат</span> <span style="color:black">– Не работает выпадающее&nbsp;&nbsp;&nbsp;меню для выбора города</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ожидаемый</span> <span style="color:black">результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:#FDFEFF">Выпадает список с выбором города </span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Скриншот</td>
+    <td class="tg-0pky" colspan="5"><img src="https://sun9-35.userapi.com/impg/HLKQMovnMCAqXJXdtOR4FbptrGf3tJbNHauBVg/SB4f1X_GQZc.jpg?size=603x89&quality=96&sign=b2982797ca3a97f6b9783e44d593518a&type=album" width="463" height="209"></td>
+  </tr>
+</tbody>
+</table>
 
 
 
+![image](https://github.com/Starkidze/FirstRepository/assets/114806514/f73338c5-bcb9-410e-8cff-471df256a4f2)
+
+Рисунок 1. – Столбчатая диаграмма распределения дефектов по модулям
+
+![image](https://github.com/Starkidze/FirstRepository/assets/114806514/e3451fe0-779d-42a2-8e2f-7d5f99beadac)
+
+Рисунок 2. – Круговая диаграмма процентного соотношения функциональных дефектов
+
+![image](https://github.com/Starkidze/FirstRepository/assets/114806514/8bb25fdb-8319-44c8-8a8c-1bffa2c7f126)
+
+Рисунок 3. – Столбчатая диаграмма распределения дефектов по степеням критичности
+
+### Вывод:
+В ходе работы была составлена таблица дефектов с наличием скриншотов дефектов. Проанализирована важность, тип и содержание каждого дефекта, построены диаграммы распределения дефектов по сложности и типу.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Использование
-Расскажите как установить и использовать ваш проект, покажите пример кода:
-
-Установите npm-пакет с помощью команды:
-```sh
-$ npm i your-awesome-plugin-name
-```
-
-И добавьте в свой проект:
-```typescript
-import { hi } from "your-awesome-plugin-name";
-
-hi(); // Выведет в консоль "Привет!"
-```
-
-## Разработка
-
-### Требования
-Для установки и запуска проекта, необходим [NodeJS](https://nodejs.org/) v8+.
-
-### Установка зависимостей
-Для установки зависимостей, выполните команду:
-```sh
-$ npm i
-```
-
-### Запуск Development сервера
-Чтобы запустить сервер для разработки, выполните команду:
-```sh
-npm start
-```
-
-### Создание билда
-Чтобы выполнить production сборку, выполните команду: 
-```sh
-npm run build
-```
-
-## Тестирование
-Какие инструменты тестирования использованы в проекте и как их запускать. Например:
-
-Наш проект покрыт юнит-тестами Jest. Для их запуска выполните команду:
-```sh
-npm run test
-```
-
-## Deploy и CI/CD
-Расскажите, как развернуть приложение. Как запустить пайплайны и т.д.
-
-## Contributing
-Как помочь в разработке проекта? Как отправить предложение или баг-репорт. Как отправить доработку (оформить pull request, какие стайлгайды используются). Можно вынести в отдельный файл — [Contributing.md](./CONTRIBUTING.md).
-
-## FAQ 
-Если потребители вашего кода часто задают одни и те же вопросы, добавьте ответы на них в этом разделе.
-
-### Зачем вы разработали этот проект?
-Чтобы был.
-
-## To do
-- [x] Добавить крутое README
-- [ ] Всё переписать
-- [ ] ...
-
-## Команда проекта
-Оставьте пользователям контакты и инструкции, как связаться с командой разработки.
-
-- [Богдан Звягинцев](tg://resolve?domain=bzvyagintsev) — Front-End Engineer
-
-## Источники
-Если вы чем-то вдохновлялись, расскажите об этом: где брали идеи, какие туториалы смотрели, ссылки на исходники кода. 
