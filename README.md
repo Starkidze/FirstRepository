@@ -100,6 +100,7 @@
 Рисунок 2. Команда ipconfig /all
 
 Проверим отклик сайта wildberries:
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/c06dfbe5-1437-494d-845f-428daab7ccf4)
 
 Рисунок 3. Команда ping 
