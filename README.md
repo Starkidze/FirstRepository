@@ -224,7 +224,76 @@
 
 Таблица 2 – Тестирование №2
 
-
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Проект&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Категория&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Видимость&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Создан&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Изменен&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">   <br><span style="color:black">0000002</span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Проект Х</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">General</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">публичная</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023-03-20</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">13:01</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Инициатор</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Старков </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Данила</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ответственный</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Приоритет</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Обычное</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Влияние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">малое</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">   <br><span style="font-weight:bold;color:black">Воспроизводимость</span><span style="font-weight:bold">   </span></td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">всегда</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Состояние</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">новая</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Решение</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black">открыта</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Функциональное&nbsp;&nbsp;&nbsp;тестирование</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Тема</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">В каталоге товаров&nbsp;&nbsp;&nbsp;(Магазин) съехали такие пункты как «Сортировка» и «Количество»</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Описание</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">В каталоге товаров (Магазин) съехали такие пункты как «Сортировка»&nbsp;&nbsp;&nbsp;и «Количество». Проблема в верстке</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Шаги по воспроизведению</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1. Перейти на&nbsp;&nbsp;&nbsp;сайт</span>   <span style="color:black">https://qahacking.guru/index.php/magazin</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">2. Посмотреть на&nbsp;&nbsp;&nbsp;«Сортировка» и «Количество»</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">3. Зафиксировать&nbsp;&nbsp;&nbsp;результат</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Дополнительные сведения</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" colspan="5">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Фактический результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Наложение нескольких полей друг на друга</span><br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Ожидаемый</span> <span style="color:black">результат</span> <span style="color:black">–</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Все поля в каталоге товаров выравнены</span>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Скриншот</td>
+    <td class="tg-0pky" colspan="5"><img src="https://sun9-34.userapi.com/impg/uPsAWatFs67oEIW1EdnA5R1ie3vjPUu78_NvNw/mir0C2Lojj8.jpg?size=772x166&quality=96&sign=be66e0d690370fe8347a2130605e490c&type=album" width="772" height="166"></td>
+  </tr>
+</tbody>
+</table>
 
 
 
