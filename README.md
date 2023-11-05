@@ -75,9 +75,13 @@
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/e7a0c9a6-f90f-4250-830d-4b11a0da006f)
 Рисунок 8. Проверка графического элемента «Заголовки»
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/b2be6ec3-fed0-4cc4-b47a-d4bd7c02c85f)
+
 Рисунок 9. Проверка графического элемента «Предварительный просмотр»
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/22a89072-ce04-4934-8d34-78f0faf88e4e)
+
 Рисунок 10. Проверка графического элемента «Ответ»
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/486d2362-de62-4bbc-8b9c-cb21a32d9684)
 Рисунок 11. Проверка графического элемента «Инициатор»
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/a7e989ae-b49b-42e4-b570-f82ff1e47014)
