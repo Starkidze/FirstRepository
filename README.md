@@ -94,25 +94,32 @@
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/2c2a1d7f-119d-4d99-9ead-72591e34287b)
 
 Рисунок 1. Команда ipconfig
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/27ba6a8b-5587-4d6c-85c5-3c6f10946e6e)
 
 Рисунок 2. Команда ipconfig /all
+
 Проверим отклик сайта wildberries:
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/c06dfbe5-1437-494d-845f-428daab7ccf4)
 
 Рисунок 3. Команда ping 
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/9fe24615-c48d-4dc1-8516-cfd580522926)
 
 Рисунок 4. Команда tracert
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/ec939630-cfdf-4624-a7ab-39e1cedfb14e)
 
 Рисунок 5. Команда netstat -a
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/490d5402-9388-42c3-98d9-724e19fc0eee)
 
 Рисунок 6. Команда netstat -b
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/b7c47100-e2bd-424b-8568-be8bc3216e0c)
 
 Рисунок 7. Команда netstat -e
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/e89be3c0-eea7-4d69-ab74-6c2d25484a9e)
 
 Рисунок 8. Команда netstat –s
