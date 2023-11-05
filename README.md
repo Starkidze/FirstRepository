@@ -43,25 +43,30 @@
 
 
 ## Тестирование на уровне протокола HTTP
-#### В данной работе будет показана методика тестирования взаимосвязей между компонентами веб приложения на уровне протокола HTTP на примере моего сайта nftparty.ru
+#### В данной работе будет показана методика тестирования взаимосвязей между компонентами веб приложения на уровне протокола HTTP на примере моего сайта [nftparty.ru](https://nftparty.ru/)
 
-#### Проводить тестирование будем средствами браузера Chrome, объект исследования – сайт nftparty.ru. 
+#### Проводить тестирование будем средствами браузера Chrome, объект исследования – сайт [nftparty.ru](https://nftparty.ru/). 
 Нажимаем F12 и переходим во вкладку Network:
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/11143029-c5a6-401f-a280-5809e5fbb2c8)
 Рисунок 1. Информация о загрузке элементов страницы.
 
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/154d0443-0686-4703-98e4-5e4aff3d041a)
 Рисунок 2. Вкладки фильтрации для JS
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/6f187779-6d12-4824-94c2-3e1395827a04)
 Рисунок 3.  Вкладки фильтрации для CSS
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/44d089a6-7a95-47b9-b0a6-dfc7d270b344)
 Рисунок 4. Вкладки фильтрации для изображения
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/0335f32c-5f85-4e29-a432-a9777f0a3005)
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/dde5264d-4cab-467b-bad0-535ce8fbcc26)
 Рисунок 5 Проверка ссылки 1.jpg
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/9c4e657b-31d4-41b3-8b6c-c035e5cde2f7)
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/81bd65cc-aecd-4aef-8552-16275dc9427c)
 Рисунок 6 Проверка ссылки jquery-3.4.1.min.js
+
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/8fe10a4a-263c-4357-a570-881b350620c8)
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/069cd9b1-4648-47de-9309-7861ddf37673)
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/e7a0c9a6-f90f-4250-830d-4b11a0da006f)
