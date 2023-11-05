@@ -51,12 +51,15 @@
 Рисунок 1. Информация о загрузке элементов страницы.
 
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/154d0443-0686-4703-98e4-5e4aff3d041a)
+
 Рисунок 2. Вкладки фильтрации для JS
 
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/6f187779-6d12-4824-94c2-3e1395827a04)
+
 Рисунок 3.  Вкладки фильтрации для CSS
 
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/44d089a6-7a95-47b9-b0a6-dfc7d270b344)
+
 Рисунок 4. Вкладки фильтрации для изображения
 
 ![image](https://github.com/Starkidze/FirstRepository/assets/114806514/0335f32c-5f85-4e29-a432-a9777f0a3005)
