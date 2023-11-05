@@ -440,7 +440,7 @@
 </table>
 
 ### Таблица 5 – Тестирование №5
-
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-fymr">&nbsp;&nbsp;&nbsp;<br>Номер&nbsp;&nbsp;&nbsp;</th>
